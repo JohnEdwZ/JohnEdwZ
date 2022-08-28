@@ -2,7 +2,7 @@
 </head>
 
 <body>
-<h1>Welcome!</h1><br>
+ <h1>Welcome!</h1>
 </body>
  
 - 🔭 I’m currently working on ...
