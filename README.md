@@ -1,7 +1,22 @@
-[![MC Technology](src/mctechnology_extendido.GIF)](https://www.youtube.com/channel/UCFJaWadJYU9rJqRAEeVQz6w)
-
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>banner gitHub</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='estilo.css'>
+    <script src='main.js'></script>
+</head>
+  
+  <body>
+      [![MC Technology](src/mctechnology_extendido.GIF)](https://www.youtube.com/channel/UCFJaWadJYU9rJqRAEeVQz6w)
 <h1 align = "center"> Welcome, I'm John </h1>
-
+    
+    <div class = "img1">
+        <h6 align = "left"> by: John</h6>
+    </div>
+</body>
 
 <footer>
 
@@ -18,3 +33,4 @@
 
 </footer>
 
+</html>
