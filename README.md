@@ -3,29 +3,23 @@
 <head>
     <meta charset='utf-8'>
     <meta http-equiv='X-UA-Compatible' content='IE=edge'>
-    <title>banner gitHub</title>
     <meta name='viewport' content='width=device-width, initial-scale=1'>
     <link rel='stylesheet' type='text/css' media='screen' href='estilo.css'>
-    <script src='main.js'></script>
 </head>
   
-  <body>
+<body>
       [![MC Technology](src/mctechnology_extendido.GIF)](https://www.youtube.com/channel/UCFJaWadJYU9rJqRAEeVQz6w)
-<h1 align = "center"> Welcome, I'm John </h1>
-    
-    <div class = "img1">
-        <h6 align = "left"> by: John</h6>
-    </div>
+      <h1 align = "center"> Welcome, I'm John </h1>    
 </body>
 
 <footer>
-
 <table align = "right">
   <tr>
     <td>
-    [<img align = "left" alt = "Programación de Software | YouTube" width = "22px" src = "https://w7.pngwing.com/pngs/5/948/png-transparent-youtube-icon-youtube-logo-youtube-logo-text-logo-sign.png" />][youtube]
-    [<img align = "left" alt = "John Edward S.R | Instagram" width = "22px" src = "./src/instagram.png" />][instagram]
-    [<img align = "left" alt = "John Edward S.R | Facebook" width = "22px" src = "./src/facebook.png" />][facebook]
+     <code>
+        <a href = "https://www.linkedin.com/in/johnsalarodr491/" title = "LinkedIn"><img width = "24px" src = "https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg">LinkedIn</a>
+     </code>
+    [<img align = "left" alt = "@jo.ed.rodigu.4652 | Facebook" width = "24px" src = "facebook.png" />][facebook]
     </td>
   </tr>
 </table>
