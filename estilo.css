@@ -1,0 +1,40 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.img1{
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    min-width: 60%;
+    min-height: 50%;
+    width: auto;
+    height: auto;
+    z-index: -100;
+    transform: translateX(-50%) translateY(-50%);
+    background-image: url("https://www.collectiveray.com/images/2021/07/7_Cool_Things_to_Do_with_JavaScript.jpg?ezimgfmt=ng%3Awebp%2Fngcb15%2Frs%3Adevice%2Frscb15-2");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+
+    animation-name: transicion;
+    animation-duration: 15s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes transicion {
+    20%{
+        background-image: url("https://d8285fmxt3duy.cloudfront.net/public/articulos/img/java-script1.jpg");
+    }
+    50%{
+        background-image: url("https://i.blogs.es/53044d/java/1366_521.jpg");
+    }
+    80%{
+        background-image: url("https://programacion.net/files/article/20170717020730_python-logo.png");
+    }
+    100%{
+        background-image: url("https://chamizo.pro/content/images/2021/11/sql-server-min-1-.jpg");
+    }
+    
+}
