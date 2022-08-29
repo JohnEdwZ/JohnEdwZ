@@ -27,11 +27,11 @@
  </tr>
 </table>
 
-<h3 align="left"><img src="estadistica2.gif" width="25px" height="25px"> GitHub Stats </h3>
-<div>
+<h3 align="left"><img src="estadistica2.gif" width="25px" height="25px">GitHub Stats</h3>
+<div align = "center">
   <a href="https://github.com/JohnEdwZ">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=JohnEdwZ&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnEdwZ&layout=compact&langs_count=7&theme=radical"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=JohnEdwZ&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnEdwZ&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 </body>
