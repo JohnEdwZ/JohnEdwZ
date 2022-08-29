@@ -17,14 +17,20 @@
   <tr>
     <td>
      <code>
-        <a href = "https://www.linkedin.com/in/johnsalarodr491/" title = "LinkedIn"><img width = "24px" src = "https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg">LinkedIn</a>
+        <a href = "https://www.linkedin.com/in/johnsalarodr491/" title = "LinkedIn">
+            <img alt = "John Edward | linkedIn" width = "24px" src = "http://www.icorp.com.mx/blog/wp-content/uploads/2017/08/Logo-Linkedin-png.png">LinkedIn</a>
      </code>
-    [<img align = "left" alt = "@jo.ed.rodigu.4652 | Facebook" width = "24px" src = "facebook.png" />][facebook]
+     <code>   
+    <a href = "https://www.facebook.com/jo.ed.rodigu.4652/" title = "Facebook">
+        <img alt = "John Edward | Facebook" width = "24px" src = "https://snipstock.com/assets/cdn/png/58f77fc090b3a968b47e49d609510788.png"/>Facebook</a>
+     </code>
     </td>
   </tr>
 </table>
+    
  <p><i>&#169 John Edward</i></p> 
 
 </footer>
 
 </html>
+
