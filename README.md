@@ -16,37 +16,18 @@
  <tr>
    <td>
     <code>
-       <a href = "https://www.linkedin.com/in/johnsalarodr491/" title = "LinkedIn">
+       <a href = "https://www.linkedin.com/in/johnsalarodr491/" title = "LinkedIn" target="_blank">
        <img alt = "John Edward | linkedIn" width = "24px" src = "http://www.icorp.com.mx/blog/wp-content/uploads/2017/08/Logo-Linkedin-png.png"></a>
     </code><br>
     <code>   
-        <a href = "https://www.facebook.com/jo.ed.rodigu.4652/" title = "Facebook">
+        <a href = "https://www.facebook.com/jo.ed.rodigu.4652/" title = "Facebook" target="_blank">
         <img alt = "John Edward | Facebook" width = "24px" src = "https://snipstock.com/assets/cdn/png/58f77fc090b3a968b47e49d609510788.png"/></a>
      </code>
    </td>
  </tr>
 </table>
 
-
-    
-```golang
-
-export const Life = ()=>{
-  const {hobbies_and_passion} = useHappiness()
-
-  const eat = () => '🍲';
-  const exercise = () => '💪';
-  const change_world = () => '<innovation>💡</innovation>';
-  const sleep = () => '🛌';
-  
-  return {eat, exercise, change_world, sleep, ...hobbies_and_passion}
-   
-}
-
-```
-
 <h3 align="left"><img src="estadistica2.gif" width="25px" height="25px"> GitHub Stats </h3>
-
 <div>
   <a href="https://github.com/JohnEdwZ">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JohnEdwZ&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
