@@ -1,27 +1,20 @@
-<head>
-</head>
+[![MC Technology](src/mctechnology_extendido.GIF)](https://www.youtube.com/channel/UCFJaWadJYU9rJqRAEeVQz6w)
 
-<body>
- <h1>Welcome!</h1>
-</body>
- 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-```diff
-+ - 👯 I’m looking to collaborate on ...
-```
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+<h1 align = "center"> Welcome, I'm John </h1>
+
 
 <footer>
-<sub>- 😄 Pronouns: ...</sub><br>
-<sup>- ⚡ Fun fact: ...</sup>
-<p><i>&#169 John Edward</i></p> 
+
+<table align = "right">
+  <tr>
+    <td>
+    [<img align = "left" alt = "Programación de Software | YouTube" width = "22px" src = "https://w7.pngwing.com/pngs/5/948/png-transparent-youtube-icon-youtube-logo-youtube-logo-text-logo-sign.png" />][youtube]
+    [<img align = "left" alt = "John Edward S.R | Instagram" width = "22px" src = "./src/instagram.png" />][instagram]
+    [<img align = "left" alt = "John Edward S.R | Facebook" width = "22px" src = "./src/facebook.png" />][facebook]
+    </td>
+  </tr>
+</table>
+ <p><i>&#169 John Edward</i></p> 
+
 </footer>
 
-<!-<style>
- h1 {
- text-align: center;
- }
-</style>->
