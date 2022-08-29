@@ -27,6 +27,7 @@
  </tr>
 </table>
 
+
     
 ```golang
 
@@ -42,11 +43,20 @@ export const Life = ()=>{
    
 }
 
-```    
+```
+
+<h3 align="left"><img src="estadistica2.gif" width="25px" height="25px"> GitHub Stats </h3>
+
+<div>
+  <a href="https://github.com/JohnEdwZ">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JohnEdwZ&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnEdwZ&layout=compact&langs_count=7&theme=radical"/>
+</div>
+
 </body>
 
 <footer>   
-### 💬 Ask me about
+    ### 💬 Ask me about
 <h3 align = "center">Languages and Tools</h3>
 <p align = "center">
 <img src = "https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a"/> </a>
