@@ -12,16 +12,15 @@
         <img src="wave.gif" width="50px">
     </h1>
     
-<table align = "center">
- <tr>
-   <td>
-    <code>
+<h2 align="center">
        <a href = "https://www.linkedin.com/in/johnsalarodr491/" title = "LinkedIn" target="_blank">
-       <img src ="https://e7.pngegg.com/pngimages/560/926/png-clipart-linkedin-linkedin.png" width = "34px" alt = "John Edward | linkedIn"></a>
-    </code>
-   </td>
- </tr>
-</table>
+           <img src ="linkedin.gif" width = "200px" height = "135px" alt = "John Edward | linkedIn">
+    </a> <tr/>
+    <a href = "https://www.linkedin.com/in/johnsalarodr491/" title = "Facebook" target="_blank">
+           <img src ="facebook.gif" width = "250px" height = "135px" alt = "John Edward | Facebook">
+    </a>  
+</h2>
+
 
 <h3 align="center"><img src="estadistica2.gif" width="35px" height="35px">  Estadisticas en GitHub</h3>
 <div align = "center">
