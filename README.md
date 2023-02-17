@@ -16,7 +16,7 @@
        <a href = "https://www.linkedin.com/in/johnsalarodr491/" title = "LinkedIn" target="_blank">
            <img src ="linkedin.gif" width = "200px" height = "135px" alt = "John Edward | linkedIn">
     </a> <tr/>
-    <a href = "https://www.linkedin.com/in/johnsalarodr491/" title = "Facebook" target="_blank">
+    <a href = "https://www.facebook.com/jo.ed.rodigu.4652/" title = "Facebook" target="_blank">
            <img src ="facebook.gif" width = "250px" height = "135px" alt = "John Edward | Facebook">
     </a>  
 </h2>
