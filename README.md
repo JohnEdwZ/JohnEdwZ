@@ -17,13 +17,13 @@
    <td>
     <code>
        <a href = "https://www.linkedin.com/in/johnsalarodr491/" title = "LinkedIn" target="_blank">
-       <img src ="" width = "24px" alt = "John Edward | linkedIn"></a>
+       <img src ="https://e7.pngegg.com/pngimages/560/926/png-clipart-linkedin-linkedin.png" width = "34px" alt = "John Edward | linkedIn"></a>
     </code>
    </td>
  </tr>
 </table>
 
-<h3 align="left"><img src="estadistica2.gif" width="25px" height="25px">GitHub Stats</h3>
+<h3 align="center"><img src="estadistica2.gif" width="35px" height="35px">  Estadisticas en GitHub</h3>
 <div align = "center">
   <a href="https://github.com/JohnEdwZ">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=JohnEdwZ&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -33,7 +33,7 @@
 </body>
 
 <footer>   
-<h3 align = "center">Languages and Tools</h3>
+<h3 align = "center">Languages y herramientas</h3>
 <p align = "center">
 <img src = "https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a"/> </a>
 <img src = "https://img.shields.io/badge/-Python-informational?style=flat&logo=python&logoColor=white&color=blue"/> </a>
