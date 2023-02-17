@@ -8,8 +8,8 @@
 </head>
   
 <body>
-    <h1 align = "center"> Welcome, I'm John
-        <img src="wave.gif" width="30px">
+    <h1 align = "center"> Bienvenido a mi GitHub, me llamo John Edward
+        <img src="wave.gif" width="50px">
     </h1>
     
 <table align = "center">
@@ -17,12 +17,8 @@
    <td>
     <code>
        <a href = "https://www.linkedin.com/in/johnsalarodr491/" title = "LinkedIn" target="_blank">
-       <img alt = "John Edward | linkedIn" width = "24px" src = "http://www.icorp.com.mx/blog/wp-content/uploads/2017/08/Logo-Linkedin-png.png"></a>
+       <img src ="" width = "24px" alt = "John Edward | linkedIn"></a>
     </code>
-    <code>   
-        <a href = "https://www.facebook.com/jo.ed.rodigu.4652/" title = "Facebook" target="_blank">
-        <img alt = "John Edward | Facebook" width = "24px" src = "https://snipstock.com/assets/cdn/png/58f77fc090b3a968b47e49d609510788.png"/></a>
-     </code>
    </td>
  </tr>
 </table>
