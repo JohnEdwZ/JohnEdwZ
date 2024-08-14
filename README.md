@@ -29,7 +29,7 @@
 </body>
 
 <footer>   
-<h3 align = "center">Languages y herramientas</h3>
+<h3 align = "center">Lenguajes y herramientas</h3>
 <p align = "center">
 <img src = "https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a"/> </a>
 <img src = "https://img.shields.io/badge/-Python-informational?style=flat&logo=python&logoColor=white&color=blue"/> </a>
